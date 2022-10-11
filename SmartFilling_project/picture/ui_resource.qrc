@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="tool_icon">
+    <file>tool/select_all_nothing.png</file>
+    <file>tool/select_all.png</file>
+    <file>tool/clear.png</file>
+    <file>tool/delete.png</file>
+    <file>tool/refresh.png</file>
+    <file>tool/add.png</file>
+    <file>tool/return.png</file>
+    <file>tool/return_active.png</file>
+    <file>tool/return_trigger.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>icon/logo.png</file>
+    <file>icon/main.png</file>
+  </qresource>
+  <qresource prefix="loading_icon">
+    <file>loading/big_loading.gif</file>
+    <file>loading/long_loading.gif</file>
+  </qresource>
+</RCC>
