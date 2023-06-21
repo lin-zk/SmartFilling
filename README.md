@@ -45,7 +45,8 @@
 2. 打开项目路径下的`SmartFilling_v0.0.8`文件夹
 3. 双击`智填.lnk`即可运行程序
 4. 具体使用指南点击登录页面下的`帮助`即可查看
-5. 项目路径下的`SmartFilling_project`文件夹存放项目源码
+![主要设计流程图](https://github.com/lin-zk/SmartFilling/blob/main/%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1.png)
+6. 项目路径下的`SmartFilling_project`文件夹存放项目源码
 
 
 ## 授权信息
